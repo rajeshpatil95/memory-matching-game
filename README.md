@@ -1,4 +1,4 @@
-# memory_matching_game
+# memory-matching-game
 
 A new Flutter project.
 
